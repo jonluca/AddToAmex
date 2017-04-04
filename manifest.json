@@ -20,7 +20,5 @@
     "38": "images/icon.png",
     "128": "images/icon128.png"
   },
-  "homepage_url": "https://jonluca.me",
-  "web_accessible_resources": [
-    "js/jquery-3.2.0.min.js"]
+  "homepage_url": "https://jonluca.me"
 }
