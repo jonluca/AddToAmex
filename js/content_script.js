@@ -2,7 +2,7 @@
 console.log("starting");
 var loadMore = document.getElementsByClassName("ah-view-more-button");
 while (loadMore.length != 0) {
-    loadMore.click();
+    loadMore[0].click();
     var loadMore = document.getElementsByClassName("ah-view-more-button");
 }
 var buttons = document.getElementsByClassName("ah-btn");
