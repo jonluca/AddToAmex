@@ -2,5 +2,4 @@
     chrome.tabs.executeScript(null, {
         file: "js/content_script.js"
     });
-
 });
