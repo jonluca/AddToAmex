@@ -1,4 +1,4 @@
-# Add to Amex
+# OfferAdder (Previously AddToAmex)
 
 ## Chrome Webstore
 

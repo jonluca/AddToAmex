@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "AddToAmex",
-  "description": "Add all offers to all your Amex cards quickly!",
+  "name": "OfferAdder",
+  "description": "Add all offers to all your credit cards quickly!",
   "version": "1.2",
   "background": {
     "scripts": ["js/background.js"]
@@ -20,5 +20,5 @@
     "38": "images/icon.png",
     "128": "images/icon128.png"
   },
-  "homepage_url": "https://jonluca.me"
+  "homepage_url": "https://jonlu.ca"
 }
