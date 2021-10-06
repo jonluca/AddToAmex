@@ -2,13 +2,12 @@
   "manifest_version": 2,
   "name": "OfferAdder",
   "description": "Add all offers to all your credit cards quickly!",
-  "version": "2.1",
+  "version": "2.2",
   "background": {
     "scripts": ["js/background.js"]
   },
   "permissions": [
-    "activeTab",
-    "clipboardWrite"
+    "activeTab"
   ],
   "browser_action": {
     "default_icon": "images/icon.png"
