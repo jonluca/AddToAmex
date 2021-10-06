@@ -1,9 +1,8 @@
 {
   "manifest_version": 2,
-
   "name": "OfferAdder",
   "description": "Add all offers to all your credit cards quickly!",
-  "version": "2.0",
+  "version": "2.1",
   "background": {
     "scripts": ["js/background.js"]
   },
