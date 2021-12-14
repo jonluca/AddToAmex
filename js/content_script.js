@@ -4,7 +4,7 @@ var run = () => {
         window.location = "https://global.americanexpress.com/offers/eligible";
         return;
     }
-    const buttons = document.querySelectorAll('[title="Add to Card"]');
+    const buttons = document.querySelectorAll('[title="Activate Offer"]');
     for(const button of buttons){
         button.click();
     }
