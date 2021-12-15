@@ -1,6 +1,6 @@
 var cardTexts = ["Add to Card", "Activate Offer"];
 var activateClassName = "offer-cta";
-
+console.log("Attempting to add all Amex offers")
 var run = () => {
   if (!window.location.href.includes("/offers/eligible")) {
     alert(
